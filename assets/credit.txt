@@ -1,0 +1,8 @@
+diskette.png
+<a href="https://www.flaticon.com/free-icons/save" title="save icons">Save icons created by Freepik - Flaticon</a>
+
+components.png
+<a href="https://www.flaticon.com/free-icons/component" title="component icons">Component icons created by orvipixel - Flaticon</a>
+
+motherboard.png
+<a href="https://www.flaticon.com/free-icons/component" title="component icons">Component icons created by Rmpp - Flaticon</a>

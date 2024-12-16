@@ -1,0 +1,1477 @@
+{
+  "data": [
+    {
+      "brand": "BROTHER",
+      "model": [
+        {
+          "model_name": "PRINTER BROTHER DCP-J100",
+          "komponen": [
+            {
+              "serial_id": "J100 Print Head Brother DCP-J100",
+              "nama_komponen": "Komponen 1",
+              "type": "HEAD",
+              "jumlah": 4
+            },
+            {
+              "serial_id": "BROTHER Carriage PCB USB Port J100",
+              "nama_komponen": "Komponen 1",
+              "type": "USB PORT",
+              "jumlah": 2
+            },
+            {
+              "serial_id": "IC Power TB62224FNG",
+              "nama_komponen": "Komponen 1",
+              "type": "IC POWER",
+              "jumlah": 3
+            },
+            {
+              "serial_id": "Catridge Refillable MCISS Brother DCP J100",
+              "nama_komponen": "Komponen 1",
+              "type": "CATRIDGE",
+              "jumlah": 3
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER BROTHER DCP-J125",
+          "komponen": [
+            {
+              "serial_id": "Print Head Brother PN-LK9025001 J125",
+              "nama_komponen": "Komponen 1",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC 2QR0680Z DIP7 Brother",
+              "nama_komponen": "Komponen 1",
+              "type": "IC MB",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER BROTHER DCP T700W",
+          "komponen": [
+            {
+              "serial_id": "TINTA BROTHER BT5000 1 SET",
+              "type": "TINTA",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC 2QR0680Z DIP7 Brother",
+              "type": "IC MB",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER TB62224FNG",
+              "type": "IC MB",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer BROTHER DCP-T710W",
+          "komponen": [
+            {
+              "serial_id": "T710 PRINT HEAD BROTHER DCP-T710",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TINTA BROTHER BT500 1 SET",
+              "type": "TINTA",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER BROTHER MFC-J3520",
+          "komponen": [
+            {
+              "serial_id": "CLEANER PRINT HEAD BROTHER",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER TB62224FNG",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "J3520 PRINT HEA BROTHER MFC-J3520",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE COMPATIBLE BROTHER C583 (BLACK)",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER BROTHER MFC J5910DW",
+          "komponen": [
+            {
+              "serial_id": "J5910 PRINT HEAD BROTHER MFC-J5910",
+              "type": "HEAD",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER BROTHER MFC-J3530DW",
+          "komponen": [
+            {
+              "serial_id": "J3530 PRINT HEAD BROTHER MFC-J3530",
+              "type": "HEAD",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer BROTHER MFC-J200",
+          "komponen": [
+            {
+              "serial_id": "ENCODER SENSOR TIMING DISK BROTHER J200",
+              "type": "HEAD",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer Brother MFC-J5910DW",
+          "komponen": [
+            {
+              "serial_id": "J5910 PRINT HEAD BROTHER MFC-J5910DW",
+              "type": "HEAD",
+              "jumlah": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "CANON",
+      "model": [
+        {
+          "model_name": "PRINTER CANON E400",
+          "komponen": [
+            {
+              "serial_id": "CATRIDGE CANON PG-47 (BLACK) E400",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON CL-57 (COLOR) E400",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CANON INK BOTLE GI-790",
+              "type": "TINTA",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer CANON E410",
+          "komponen": [
+            {
+              "serial_id": "CATRIDGE CANON PG-47 (BLACK) E400",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON CL-57 (COLOR) E400",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON G1000",
+          "komponen": [
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON PG-47 (BLACK) E400",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON G2010",
+          "komponen": [
+            {
+              "serial_id": "PRINT HEAD CATRIDGE BG-7 G2010",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC EPROM CANON G2010 T16",
+              "type": "IC MB",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON IP2770",
+          "komponen": [
+            {
+              "serial_id": "PE SENSOR ASF CANON IP2770",
+              "type": "SENSOR",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CANON USB PORT G1000",
+              "type": "USB PORT",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON PIXMA PG-810 (BLACK)",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON PIXMA CL-811 (COL)",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON IP2870S",
+          "komponen": [
+            {
+              "serial_id": "PE SENSOR ASF CANON IP2870",
+              "type": "SENSOR",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON PIXMA PG-745 (BLACK)",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON LBP 6030",
+          "komponen": [
+            {
+              "serial_id": "TONER CATRIDGE CRG 325",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CANON TONER DIAMOND",
+              "type": "TONER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "USB PROGRAM IC EPROM CH341A",
+              "type": "IC MB",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "OPC DRUM CANON LB6030",
+              "type": "DRUM",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "INDOCART WIPER BLADE CANON LBP56030",
+              "type": "BLADE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "INDOCART PCR CHARGE ROLLER CRG 312",
+              "type": "ROLLER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MG2170",
+          "komponen": [
+            {
+              "serial_id": "PRINT HEAD CATRIDGE BH-70 (BLACK) MG2170",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD CATRIDGE CH-70 (COLOR) MG2170",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PICKUP ROLLER CANON MG2170",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MG2570",
+          "komponen": [
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA PG-745 (BLACK) MG2570",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA CL-746 (COL) MG2570",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MP 258",
+          "komponen": [
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA PG-810 (BLACK) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MP237",
+          "komponen": [
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA PG-810 (BLACK) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA CL-811 (COL) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MP276",
+          "komponen": [
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA PG-810 (BLACK) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA CL-811 (COL) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MP287",
+          "komponen": [
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA PG-810 (BLACK) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD CATRIDGE PIXMA CL-811 (COL) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CANON USB PORT G1000",
+              "type": "USB PORT",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON E410",
+          "komponen": [
+            {
+              "serial_id": "CATRIDGE CANON PG-47 (BLACK) E400",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON CL-57 (COLOR) E400",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON G1000",
+          "komponen": [
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON PG-47 (BLACK) E400",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON G2010",
+          "komponen": [
+            {
+              "serial_id": "PRINT HEAD CATRIDGE BH-7 G2010",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC EPROM CANON G2010 T16",
+              "type": "IC MB",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON IP2770",
+          "komponen": [
+            {
+              "serial_id": "PE SENSOR ASF CANON IP2770",
+              "type": "SENSOR",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CANON USB PORT G1000",
+              "type": "USB PORT",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON PIXMA PG-810 (BLACK)",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON PIXMA CL-811 (COL)",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER CANON EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON IP2870S",
+          "komponen": [
+            {
+              "serial_id": "PE SENSOR ASF CANON IP2870",
+              "type": "SENSOR",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CANON PIXMA PG-745 (BLACK)",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON LBP 6030",
+          "komponen": [
+            {
+              "serial_id": "TONER CATRIDGE CRG 325",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CANON TONER DIAMOND",
+              "type": "TONER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "USB PROGRAM IC EPROM CH341A",
+              "type": "IC MB",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "OPC DRUM CANON LBP6030",
+              "type": "DRUM",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "INDOCART WIPER BLADE CANON LBP6030",
+              "type": "BLADE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "INDOCART PCR CHARGE ROLLER CRG 312",
+              "type": "ROLLER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MG2170",
+          "komponen": [
+            {
+              "serial_id": "Print Head Catridge BH-70 (BLACK) MG2170",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Print Head Catridge CH-70 (COLOR) MG2170",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Pickup Roller Canon MG2170",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Print Head Cleaner Premium",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MG2570",
+          "komponen": [
+            {
+              "serial_id": "Print Head Catridge Pixma PG-745 (BLACK) MG2570",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Print Head Catridge Pixma CL-746 (COL) MG2570",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Print Head Cleaner Premium",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MP 258",
+          "komponen": [
+            {
+              "serial_id": "Print Head Catridge Pixma PG-810 (BLACK) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Print Head Catridge Pixma CL-811 (COL) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC Power Canon EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MP237",
+          "komponen": [
+            {
+              "serial_id": "Print Head Catridge Pixma PG-810 (BLACK) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Print Head Catridge Pixma CL-811 (COL) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC Power Canon EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MP276",
+          "komponen": [
+            {
+              "serial_id": "Print Head Catridge Pixma PG-810 (BLACK) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Print Head Catridge Pixma CL-811 (COL) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC Power Canon EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER CANON MP287",
+          "komponen": [
+            {
+              "serial_id": "Print Head Catridge Pixma PG-810 (BLACK) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Print Head Catridge Pixma CL-811 (COL) MP258",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC Power Canon EOS 70D IC M04",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CANON USB PORT G1000",
+              "type": "USB PORT",
+              "jumlah": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "EPSON",
+      "model": [
+        {
+          "model_name": "PRINTER EPSON L110",
+          "komponen": [
+            {
+              "serial_id": "TOMBOL PANEL EPSON L110: 1 PANEL / BULAN",
+              "type": "TOMBOL",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM: 60ML / BULAN",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L1205",
+          "komponen": [
+            {
+              "serial_id": "IC POWER E09A92GA EPSON L120: 1 PCS / BULAN",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM: 190ML / BULANN",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Tombol Panel EPSON L120: 1 panel / Bulan",
+              "type": "TOMBOL",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Timing Belt Epson L Series: 1 belt / Bulan",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Roller Rubber Epson L Series Set: 1 roller / Bulan",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Kabel Power Printer 2 Hole: 1 kabel / Bulan",
+              "type": "KABEL",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L121",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM: 25ML / BULAN",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L1300",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM: 15ML / BULAN",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "ROLLER RUBBER EPSON L SERIES SET: 2 ROLLER / BULAN",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINTHEAD EPSON T1100 L1300: 1 HEAD / BULAN",
+              "type": "HEAD",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L1800",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM: 190ML / BULANN",
+              "type": "FLEXIBLE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD EPSON L1800 1390",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TINTA EPSON 664 PREMIUM L1800",
+              "type": "TINTA",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TUAS ASF ROLLER L1800",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER EPSON E09A92GA L1800",
+              "type": "IC POWER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L210",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "POWER SUPPLY ADAPTOR EPSON L210",
+              "type": "POWERSUPPLY",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TIMMING BELT EPSON L210",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TIC POWER EPSON E09A92GA L210",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "CATRIDGE CIS EPSON L210",
+              "type": "CATRIDGE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD EPSON L210",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "Tinta Epson 664 Premium L1800",
+              "type": "TINTA",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L220",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "POWER SUPPLY ADAPTOR EPSON L220",
+              "type": "POWERSUPPLY",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC MAINBOARD BD64538EF L220",
+              "type": "IC MB",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER EPSON E09A92GA L220",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "ASF PICK UP ROLLER SET L220",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "KABEL FLEXIBLE HEAD & SENSOR L220",
+              "type": "FLEXIBLE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L300",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER EPSON E09A92GA L300",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TIMMING BELT EPSON L300",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TOMBOL PANEL POWER PRINTER EPSON L300",
+              "type": "TOMBOL",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L310",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD EPSON L310",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC MAINBOARD BD64538EF L310",
+              "type": "IC MB",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TIMMING BELT EPSON L310",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TOMBOL PANEL POWER PRINTER EPSON L310",
+              "type": "TOMBOL",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L3110",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC MAINBOARD BD64538EF L3110",
+              "type": "IC MB",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TIMMING BELT EPSON L3110",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "KABEL FLEXIBEL HEAD EPSON L3110",
+              "type": "FLEXIBLE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER PRINTER EPSON L3110",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TINTA EPSON 003 SET",
+              "type": "TINTA",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "KACA SCANNER EPSON L3110",
+              "type": "SCANNER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "ASF PICKUP ROLLER ATAS BAWAH EPSON L3110",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "HEAD PRINTER EPSON L3110",
+              "type": "HEAD",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L3150",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER PRINTER EPSON L3150",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TIMMING BELT EPSON L3150",
+              "type": "BELTING",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L3210",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "FLEXIBLE CABLE PANEL POOWER EPSON L3210",
+              "type": "FLEXIBLE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L3250",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TINTA EPSON 003 SET",
+              "type": "TINTA",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L350",
+          "komponen": [
+            {
+              "serial_id": "TIMMING BELT EPSON L350",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "ASF PICKUP ROLLER ATAS BAWAH EPSON L50",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "HEAD PRINTER EPSON L350",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC MAINBOARD BD64538EF L350",
+              "type": "IC MB",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L355",
+          "komponen": [
+            {
+              "serial_id": "TIMMING BELT EPSON L355",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "KABEL FLEXIBLE PRINT HEAD L355",
+              "type": "FLEXIBLE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "MAINBOARD EPSON L355 WIFI LOGIC",
+              "type": "MB",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L360",
+          "komponen": [
+            {
+              "serial_id": "TIMMING BELT EPSON L360",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER E09A92GA MAINBOARD L360",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "KABEL FLEXIBLE PRINT HEAD L360",
+              "type": "FLEXIBLE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "POWER SUPPLY ADAPTOR EPSON L360",
+              "type": "POWERSUPPLY",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "HEAD PRINTER EPSON L360",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TINTA EPSON 003 SET",
+              "type": "TINTA",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L380",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TIMMING BELT EPSON L380",
+              "type": "BELTING",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L405",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TIMMING BELT EPSON L405",
+              "type": "BELTING",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L4150",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L5190",
+          "komponen": [
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC MAINBOARD BD64538EF L5190",
+              "type": "IC MB",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD EPSON L5190",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TINTA EPSON 003 SET",
+              "type": "TINTA",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER EPSON L565",
+          "komponen": [
+            {
+              "serial_id": "IMMING BELT EPSON L565",
+              "type": "BELTING",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PRINT HEAD EPSON L5650",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC POWER E09A92GA MAINBOARD L565",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "PAPAN SENSOR FLEX CABLE L565",
+              "type": "SENSOR",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "KABEL FLEXIBLE PRINT HEAD L565",
+              "type": "FLEXIBLE",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "ASF PICKUP ROLLER ATAS BAWAH EPSON L565",
+              "type": "ROLLER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L6170",
+          "komponen": [
+            {
+              "serial_id": "MAINTENANCE BOX EPSON T04D1",
+              "type": "BOX",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "Printer EPSON L800",
+          "komponen": [
+            {
+              "serial_id": "HEAD PRINTER L800",
+              "type": "HEAD",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "MOTOR DINAMO CARRIAGE L800 CR 2116690",
+              "type": "DINAMO",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM",
+              "type": "CLEANER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "ASF PICKUP ROLLER ATAS BAWAH EPSON L800",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "TINTA EPSON FOR PRINTER L673",
+              "type": "TINTA",
+              "jumlah": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "HP",
+      "model": [
+        {
+          "model_name": "PRINTER HP 107A",
+          "komponen": [
+            {
+              "serial_id": "TOMBOL PANEL EPSON L110: 1 PANEL / BULAN",
+              "type": "TOMBOL",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "EPSON HEAD CLEANER PREMIUM: 60ML / BULAN",
+              "type": "CLEANER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER HP INK TANK 315",
+          "komponen": [
+            {
+              "serial_id": "IC POWER SPU13P: 1 IC / BULAN",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "OPC DRUM OEM COLOR: 1 DRUM / BULAN",
+              "type": "DRUM",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "DOCTOR BLADE (DB) 315 HP: 1 BLADE / BULAN",
+              "type": "BLADE",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER HP LASERJET 107A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 60G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "OPC DRUM TONER: 1 DRUM / BULAN",
+              "type": "DRUM",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "PRINTER HP P1102",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 120G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "FUSER PRESSURE ROLLER (LOWER) P1102: 1 FUSER / BULAN",
+              "type": "ROLLER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "IC TR POWER SUPPLY P1102 K3566: 1 PCS / BULAN",
+              "type": "IC POWER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "OPC DRUM TONER 35A: 1 DRUM / BULAN",
+              "type": "DRUM",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "FUSER FILM HP 1010 P1102: 1 FUSER / BULAN",
+              "type": "FUSER",
+              "jumlah": 1
+            },
+            {
+              "serial_id": "MAGNET ROLLER SLEEVE SELONGSONG 35A: 1 SELONGSONG / BULAN",
+              "type": "SELONGSONG",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP 107A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 315G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP 12A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 250G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER CARTRIDGE HP 17A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 110G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP 285A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 120G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP 35A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 120G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP 48A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 270G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP 78A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 150G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP 80A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 150G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP 83A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 80G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            }
+          ]
+        },
+        {
+          "model_name": "TONER HP LASERJET 85A",
+          "komponen": [
+            {
+              "serial_id": "TONER PAF HP: 315G / BULAN",
+              "type": "TONER",
+              "jumlah": 1
+            },
+            {
+                "serial_id": "OPC DRUM TONER: 1 DRUM / BULAN",
+                "type": "DRUM",
+                "jumlah": 1
+              }
+          ]
+        }
+
+
+      ]
+    }
+  ]
+}
